@@ -10,7 +10,7 @@ from textblob import TextBlob
 from pytube import YouTube
 
 # Specify your YouTube Data API key
-DEVELOPER_KEY = "AIzaSyCk5y59_XIlabK3bDipO7FdPSD7lBguxIA"
+DEVELOPER_KEY = "API_KEY"
 
 # Function to get video comments
 def get_video_comments(video_id):
